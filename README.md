@@ -12,7 +12,7 @@ Open Innovations.
 
   Frontend : https://github.com/Anushka-2003/Panthers-real-estate/tree/master
   
-  Backend : 
+  Backend :  https://github.com/abhishekghz/Real-Estate-House-Price-Prediction
 
 ### Team Details :
 
